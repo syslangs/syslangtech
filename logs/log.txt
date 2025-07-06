@@ -1,0 +1,10 @@
+[06-Jul-2025 23:23:50 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "Dotenv\Dotenv" not found in C:\xampp\htdocs\syslangtech\backend\config\init.php:29
+Stack trace:
+#0 C:\xampp\htdocs\syslangtech\index.php(11): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\syslangtech\backend\config\init.php on line 29
+[06-Jul-2025 23:27:19 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "Dotenv\Dotenv" not found in C:\xampp\htdocs\syslangtech\backend\config\init.php:29
+Stack trace:
+#0 C:\xampp\htdocs\syslangtech\index.php(11): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\syslangtech\backend\config\init.php on line 29
