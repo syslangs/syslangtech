@@ -23,10 +23,10 @@
                 <div class="container checkout-container">
                     <ul class="checkout-progress-bar d-flex justify-content-center flex-wrap">
                         <li>
-                            <a href="cart.html">Shopping Cart</a>
+                            <a href="cart.php">Shopping Cart</a>
                         </li>
                         <li class="active">
-                            <a href="checkout.html">Checkout</a>
+                            <a href="checkout.php">Checkout</a>
                         </li>
                         <li class="disabled">
                             <a href="#">Order Complete</a>
@@ -75,7 +75,7 @@
                                                     me</label>
                                             </div>
 
-                                            <a href="forgot-password.html" class="forget-password">Lost your password?</a>
+                                            <a href="forgot-password.php" class="forget-password">Lost your password?</a>
                                         </div>
                                     </form>
                                 </div>
